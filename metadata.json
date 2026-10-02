@@ -1,0 +1,7 @@
+{
+  "name": "Crucible of Vitriol",
+  "description": "A mobile-first 2D gothic action-platformer prototype featuring responsive melee & ranged combat, distinct enemy archetypes, and an epic multi-phase boss encounter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
